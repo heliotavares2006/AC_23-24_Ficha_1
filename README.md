@@ -2,7 +2,7 @@
 
 ## Informação do aluno
 
-    Nome: ...
+    Nome: Hélio Tavares
 
 Escreve as respostas dentro dos blocos correspondentes.
 Substitui as reticências pelo que é pedido em cada pergunta.
@@ -15,8 +15,8 @@ Não desformates o documento.
 - Considera componentes como unidade lógica aritmética (ALU), unidade de controlo (UC), registos internos, memória e interfaces de entrada/saída (I/O).
 
 P1 - Resposta:
+Unidade de controle: A unidade de controle gerencia o processamento de instruções e coordena o fluxo de dados dentro da CPU e entre outros componentes do computador. Ela tem um componente decodificador de instruções que interpreta as instruções obtidas da memória e as converte em micro-operações que a CPU pode executar. A unidade de controle direciona outros componentes da CPU para executar as operações necessárias.
 
-    ...
 
 ### P2. Compara as arquiteturas de Von Neumann e Harvard em termos de características e principais diferenças
 
