@@ -94,4 +94,4 @@ P3 - Resposta:
     Economia de Recursos: A repetição eficiente do ciclo permite a reutilização dos recursos do processador para executar uma ampla variedade de instruções de maneira contínua.
     Automatização: A automação do ciclo permite que programas complexos sejam executados sem intervenção manual, proporcionando eficiência e praticidade na execução de tarefas computacionais.
 
-    ...
+![](https://hardzone.es/app/uploads-hardzone.es/2020/06/CPU.jpg)
